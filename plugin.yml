@@ -1,0 +1,11 @@
+name: EasyTitle
+author: Tianyu
+version: 1.4.1
+main: EasyTitle\Main
+load: POSTWORLD
+api: ["1.0.0","2.0.0","3.0.0"]
+
+
+commands:
+ et:
+  description: EasyTitle
